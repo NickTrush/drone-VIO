@@ -1,0 +1,11 @@
+**.git/*
+.dockerignore
+**.gitignore
+**Dockerfile
+**.Dockerfile
+
+build/*
+install/*
+log/*
+
+**.swp
